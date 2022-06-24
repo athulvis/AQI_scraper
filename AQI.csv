@@ -1,4 +1,147 @@
 City,Air Quality,Index Value,Prominent Pollutant,No. of Monitoring Stations,Date
+Agartala,Poor,225,PM2.5,1,24/06/2022
+Agra,Moderate,140,"PM, O, PM1032.5",6,24/06/2022
+Ahmedabad,Poor,239,PM2.5,8,24/06/2022
+Aizawl,Satisfactory,70,PM10,1,24/06/2022
+Ajmer,Satisfactory,91,PM10,1,24/06/2022
+Alwar,Satisfactory,83,PM10,1,24/06/2022
+Amaravati,Satisfactory,56,PM10,1,24/06/2022
+Amritsar,Satisfactory,77,PM10,1,24/06/2022
+Ankleshwar,Moderate,196,PM2.5,1,24/06/2022
+Araria,Very Poor,337,O3,1,24/06/2022
+Arrah,Moderate,186,PM10,1,24/06/2022
+Asansol,Moderate,135,PM2.5,1,24/06/2022
+Aurangabad,Moderate,102,PM10,1,24/06/2022
+Bagalkot,Good,50,PM2.5,1,24/06/2022
+Ballabgarh,Moderate,101,PM10,1,24/06/2022
+Bathinda,Moderate,108,PM10,1,24/06/2022
+Bengaluru,Satisfactory,69,PM10,8,24/06/2022
+Bhagalpur,Moderate,185,PM2.5,1,24/06/2022
+Bhilai,Satisfactory,69,PM10,1,24/06/2022
+Bhiwadi,Poor,207,PM2.5,1,24/06/2022
+Bhiwani,Poor,275,PM2.5,1,24/06/2022
+Bhopal,Moderate,156,O3,1,24/06/2022
+Bidar,Satisfactory,76,PM10,1,24/06/2022
+Bihar Sharif,Poor,300,PM2.5,1,24/06/2022
+Bilaspur,Satisfactory,56,PM10,1,24/06/2022
+Bulandshahr,Poor,215,PM2.5,1,24/06/2022
+Buxar,Poor,234,PM2.5,1,24/06/2022
+Chamarajanagar,Good,46,PM10,1,24/06/2022
+Chandigarh,Moderate,144,"O, PM, PM32.510",3,24/06/2022
+Chandrapur,Satisfactory,96,PM10,2,24/06/2022
+Chennai,Satisfactory,60,"O, PM, CO310",7,24/06/2022
+Chikkaballapur,Satisfactory,72,PM2.5,1,24/06/2022
+Chikkamagaluru,Good,44,PM10,1,24/06/2022
+Coimbatore,Satisfactory,55,CO,1,24/06/2022
+Darbhanga,Poor,203,PM2.5,1,24/06/2022
+Davanagere,Satisfactory,70,PM10,1,24/06/2022
+Delhi,Poor,237,"PM, PM102.5",34,24/06/2022
+Dewas,Moderate,124,PM10,1,24/06/2022
+Dharuhera,Moderate,173,PM10,1,24/06/2022
+Durgapur,Poor,232,PM2.5,1,24/06/2022
+Eloor,Satisfactory,80,PM10,1,24/06/2022
+Ernakulam,Satisfactory,85,NO2,1,24/06/2022
+Faridabad,Poor,230,"PM, O, PM1032.5",4,24/06/2022
+Firozabad,Moderate,116,PM2.5,2,24/06/2022
+Gandhinagar,Moderate,148,"PM, PM2.510",3,24/06/2022
+Gaya,Moderate,145,"NO, PM22.5",3,24/06/2022
+Ghaziabad,Poor,293,"PM, PM2.510",4,24/06/2022
+Gorakhpur,Satisfactory,80,PM10,1,24/06/2022
+Greater Noida,Poor,210,"PM, PM102.5",2,24/06/2022
+Gummidipoondi,Good,38,PM10,1,24/06/2022
+Gurugram,Poor,205,"PM, PM102.5",4,24/06/2022
+Guwahati,Poor,234,PM2.5,2,24/06/2022
+Gwalior,Moderate,114,PM2.5,1,24/06/2022
+Hajipur,Moderate,171,PM2.5,1,24/06/2022
+Haldia,Moderate,127,PM10,1,24/06/2022
+Hapur,Poor,212,PM2.5,1,24/06/2022
+Hassan,Satisfactory,53,PM10,1,24/06/2022
+Hisar,Poor,243,PM2.5,1,24/06/2022
+Howrah,Poor,204,"PM, PM102.5",3,24/06/2022
+Hyderabad,Satisfactory,83,"PM, PM102.5",5,24/06/2022
+Indore,Moderate,104,O3,1,24/06/2022
+Jabalpur,Moderate,148,PM10,1,24/06/2022
+Jaipur,Satisfactory,88,PM10,2,24/06/2022
+Jalandhar,Moderate,120,PM10,1,24/06/2022
+Jind,Moderate,147,PM2.5,1,24/06/2022
+Jodhpur,Poor,211,PM2.5,1,24/06/2022
+Kaithal,Moderate,151,PM2.5,1,24/06/2022
+Kalaburgi,Satisfactory,80,PM10,1,24/06/2022
+Kalyan,Poor,270,PM2.5,1,24/06/2022
+Kannur,Satisfactory,52,PM10,1,24/06/2022
+Kanpur,Moderate,171,PM10,3,24/06/2022
+Karnal,Moderate,124,PM2.5,1,24/06/2022
+Katihar,Very Poor,323,PM2.5,1,24/06/2022
+Katni,Satisfactory,92,PM10,1,24/06/2022
+Khanna,Satisfactory,90,PM10,1,24/06/2022
+Kishanganj,Poor,272,PM2.5,1,24/06/2022
+Kochi,Moderate,122,PM2.5,1,24/06/2022
+Kolkata,Moderate,149,"PM, PM2.510",5,24/06/2022
+Kollam,Satisfactory,88,PM10,1,24/06/2022
+Koppal,Satisfactory,93,O3,1,24/06/2022
+Kota,Moderate,168,PM2.5,1,24/06/2022
+Kozhikode,Satisfactory,62,PM10,1,24/06/2022
+Kurukshetra,Poor,231,PM2.5,1,24/06/2022
+Lucknow,Moderate,165,"PM, O2.53",6,24/06/2022
+Ludhiana,Moderate,179,PM10,1,24/06/2022
+Mandi Gobindgarh,Satisfactory,86,PM10,1,24/06/2022
+Mandideep,Moderate,185,PM10,1,24/06/2022
+Mandikhera,Satisfactory,99,PM10,1,24/06/2022
+Manesar,Moderate,195,PM2.5,1,24/06/2022
+Manglore,Satisfactory,51,CO,1,24/06/2022
+Manguraha,Satisfactory,96,O3,1,24/06/2022
+Meerut,Poor,281,PM2.5,1,24/06/2022
+Moradabad,Moderate,197,PM2.5,4,24/06/2022
+Motihari,Poor,242,PM2.5,1,24/06/2022
+Mumbai,Moderate,170,"PM, PM2.510",19,24/06/2022
+Munger,Moderate,184,PM10,1,24/06/2022
+Muzaffarnagar,Very Poor,302,PM2.5,1,24/06/2022
+Muzaffarpur,Poor,282,"PM, PM102.5",3,24/06/2022
+Mysuru,Good,48,PM10,1,24/06/2022
+Nagpur,Satisfactory,75,CO,1,24/06/2022
+Naharlagun,Poor,204,PM10,1,24/06/2022
+Narnaul,Moderate,114,PM2.5,1,24/06/2022
+Nashik,Satisfactory,82,PM2.5,1,24/06/2022
+Navi Mumbai,Moderate,178,"PM, CO10",2,24/06/2022
+Noida,Moderate,169,PM2.5,1,24/06/2022
+Pali,Moderate,140,PM2.5,1,24/06/2022
+Palwal,Moderate,104,PM10,1,24/06/2022
+Panchkula,Moderate,140,PM2.5,1,24/06/2022
+Panipat,Moderate,170,PM10,1,24/06/2022
+Patiala,Moderate,120,PM10,1,24/06/2022
+Patna,Poor,214,"PM, PM2.510",5,24/06/2022
+Pithampur,Satisfactory,79,PM10,1,24/06/2022
+Prayagraj,Moderate,129,"O, PM310",3,24/06/2022
+Puducherry,Good,49,O3,1,24/06/2022
+Pune,Moderate,149,PM2.5,5,24/06/2022
+Purnia,Poor,248,PM2.5,1,24/06/2022
+Raichur,Satisfactory,82,PM10,1,24/06/2022
+Rajamahendravaram,Satisfactory,70,PM10,1,24/06/2022
+Rajgir,Moderate,155,O3,1,24/06/2022
+Ratlam,Moderate,108,PM10,1,24/06/2022
+Rohtak,Poor,201,PM2.5,1,24/06/2022
+Rupnagar,Moderate,141,PM2.5,1,24/06/2022
+Sagar,Satisfactory,69,CO,1,24/06/2022
+Saharsa,Very Poor,325,PM10,1,24/06/2022
+Sasaram,Moderate,173,PM2.5,1,24/06/2022
+Satna,Satisfactory,52,PM10,1,24/06/2022
+Siliguri,Moderate,176,PM2.5,1,24/06/2022
+Singrauli,Poor,272,PM10,1,24/06/2022
+Sirsa,Moderate,101,O3,1,24/06/2022
+Solapur,Satisfactory,88,PM2.5,1,24/06/2022
+Talcher,Moderate,109,PM10,1,24/06/2022
+Thane,Poor,227,PM10,1,24/06/2022
+Thiruvananthapuram,Satisfactory,55,"PM, PM102.5",2,24/06/2022
+Thoothukudi,Good,38,PM10,1,24/06/2022
+Udaipur,Moderate,151,PM2.5,1,24/06/2022
+Ujjain,Moderate,143,PM10,1,24/06/2022
+Vapi,Moderate,171,PM10,1,24/06/2022
+Varanasi,Moderate,108,PM10,4,24/06/2022
+Vatva,Poor,203,PM2.5,1,24/06/2022
+Vijayapura,Satisfactory,51,PM10,1,24/06/2022
+Visakhapatnam,Moderate,130,PM10,1,24/06/2022
+Yadgir,Satisfactory,53,PM10,1,24/06/2022
+Yamunanagar,Poor,251,PM2.5,1,24/06/2022
 Agartala,Poor,225,PM2.5,1,23/06/2022
 Agra,Moderate,140,"PM, O, PM1032.5",6,23/06/2022
 Ahmedabad,Poor,239,PM2.5,8,23/06/2022
