@@ -1,10 +1,17 @@
 # Import necessary packages
 import pandas as pd
 import camelot as camelot
+from datetime import datetime
+
+replace_string = datetime.today().strftime('%Y%m%d')
+file = "https://cpcb.nic.in//upload/Downloads/AQI_Bulletin_20220307.pdf"
+file = file.replace('20220307',str(replace_string),1)
+
 
 # Extract tables 
-file = "https://cpcb.nic.in//upload/Downloads/AQI_Bulletin_20220307.pdf"
+
 tables = camelot.read_pdf(file, pages='all', strip_text='\n', flag_size=True)
+
 
 # Define headers
 def filter_df(df):
