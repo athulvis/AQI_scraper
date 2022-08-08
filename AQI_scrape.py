@@ -1,6 +1,6 @@
 # Import necessary packages
-import camelot as camelot
 import pandas as pd
+import camelot as camelot
 
 # Extract tables 
 file = "https://cpcb.nic.in//upload/Downloads/AQI_Bulletin_20220307.pdf"
@@ -36,26 +36,6 @@ df['Date'] = pd.to_datetime('today').strftime("%d/%m/%Y")
 df
 
 
-
-# load previous data
-df_base = pd.read_csv("AQI.csv")
-#df_base["Date"] = pd.to_datetime(df_base["Date"], format="%d/%m/%Y")
-
-
-# Append latest data
-frames = [df, df_base]
-df1 = pd.concat(frames)
-
-#dates
-#df1["Date"] = pd.to_datetime(df1["Date"], format="%d/%m/%Y")
-
-# Remove duplicate rows
-df1.drop_duplicates(keep=False)
-
-# Export to csv
-df1.to_csv("AQI.csv",index = False)
-df1
-
-#dataTypeSeries = df1.dtypes
-
-#print(dataTypeSeries)
+# Append new data with old file
+with open('AQI.csv', 'a') as f:
+    df.to_csv(f, header=False)
