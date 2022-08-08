@@ -12,8 +12,6 @@ def filter_df(df):
     df.reset_index().drop(columns= 'index', axis=1, inplace=True)
     return df
 
-
-
 # Even number of dataframes
 table_list = []
 for num, table in enumerate(tables):
@@ -21,20 +19,14 @@ for num, table in enumerate(tables):
         table_df = table.df
         table_list.append(table_df.drop(0).drop(0, axis=1))
 
-
 # Concatenate all dateframes
 df = pd.concat(table_list)
-
 
 # Add headers
 df.pipe(filter_df)
 
-
-
 # Add date 
 df['Date'] = pd.to_datetime('today').strftime("%d/%m/%Y")
-df
-
 
 # Append new data with old file
 with open('AQI.csv', 'a') as f:
