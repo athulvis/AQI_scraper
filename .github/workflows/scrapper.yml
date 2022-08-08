@@ -10,7 +10,7 @@ on:
       - main
       - main
   schedule:
-    - cron: '45 10 * * *'
+    - cron: '45 11 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
