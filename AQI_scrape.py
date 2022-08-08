@@ -37,4 +37,4 @@ df['Date'] = pd.to_datetime('today').strftime("%d/%m/%Y")
 
 # Append new data with old file
 with open('AQI.csv', 'a') as f:
-    df.to_csv(f, header=False)
+    df.to_csv(f, header=False, index=False)
