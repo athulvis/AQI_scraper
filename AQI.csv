@@ -8633,3 +8633,163 @@ Visakhapatnam,Good,33,SO2,1,09/10/2022
 Vrindavan,Satisfactory,54,SO2,1,09/10/2022
 Yadgir,Good,30,PM10,1,09/10/2022
 Yamunanagar,Satisfactory,59,PM10,1,09/10/2022
+Agartala,Moderate,126,PM2.5,1,10/10/2022
+Agra,Good,23,"PM, SO, CO2.52",6,10/10/2022
+Ahmedabad,Moderate,106,PM10,1,10/10/2022
+Aizawl,Good,25,PM10,1,10/10/2022
+Ajmer,Satisfactory,70,PM10,1,10/10/2022
+Alwar,Satisfactory,70,PM10,1,10/10/2022
+Amaravati,Good,28,CO,1,10/10/2022
+Ambala,Satisfactory,78,PM10,1,10/10/2022
+Amritsar,Satisfactory,86,PM10,1,10/10/2022
+Anantapur,Satisfactory,54,PM2.5,1,10/10/2022
+Araria,Satisfactory,87,CO,1,10/10/2022
+Arrah,Satisfactory,93,O3,1,10/10/2022
+Asansol,Good,43,PM10,1,10/10/2022
+Aurangabad(Maharashtra),Satisfactory,83,PM10,1,10/10/2022
+Baddi,Satisfactory,88,PM10,1,10/10/2022
+Bagalkot,Good,38,CO,1,10/10/2022
+Bahadurgarh,Good,33,CO,1,10/10/2022
+Ballabgarh,Good,33,PM10,1,10/10/2022
+Bareilly,Good,22,CO,1,10/10/2022
+Bathinda,Satisfactory,75,PM10,1,10/10/2022
+Belgaum,Good,46,CO,1,10/10/2022
+Bengaluru,Satisfactory,58,"PM, PM, CO2.510",5,10/10/2022
+Bettiah,Good,27,CO,1,10/10/2022
+Bhagalpur,Satisfactory,57,CO,1,10/10/2022
+Bhiwani,Good,42,O3,1,10/10/2022
+Bhopal,Satisfactory,99,PM10,2,10/10/2022
+Bihar Sharif,Satisfactory,51,CO,1,10/10/2022
+Bilaspur,Satisfactory,51,PM10,1,10/10/2022
+Bulandshahr,Good,17,O3,1,10/10/2022
+Buxar,Satisfactory,75,CO,1,10/10/2022
+Chamarajanagar,Good,39,PM10,1,10/10/2022
+Chandigarh,Good,48,"O, CO, PM310",3,10/10/2022
+Chandrapur,Satisfactory,56,"PM, CO10",2,10/10/2022
+Charkhi Dadri,Good,31,PM2.5,1,10/10/2022
+Chennai,Satisfactory,61,"CO, PM2.5",7,10/10/2022
+Chhapra,Satisfactory,91,PM10,1,10/10/2022
+Chikkaballapur,Good,47,PM10,1,10/10/2022
+Chikkamagaluru,Good,36,PM10,1,10/10/2022
+Coimbatore,Good,50,CO,1,10/10/2022
+Darbhanga,Moderate,159,NO2,1,10/10/2022
+Davanagere,Good,22,CO,1,10/10/2022
+Delhi,Good,44,"CO, PM2.5",28,10/10/2022
+Dewas,Satisfactory,90,PM10,1,10/10/2022
+Dharuhera,Good,44,PM2.5,1,10/10/2022
+Durgapur,Moderate,116,PM10,1,10/10/2022
+Eloor,Satisfactory,58,PM10,1,10/10/2022
+Ernakulam,Satisfactory,71,CO,1,10/10/2022
+Faridabad,Good,31,"NO, CO2",3,10/10/2022
+Fatehabad,Good,47,PM10,1,10/10/2022
+Firozabad,Good,34,SO2,1,10/10/2022
+Gadag,Good,25,SO2,1,10/10/2022
+Gandhinagar,Satisfactory,67,PM10,1,10/10/2022
+Gangtok,Good,15,SO2,1,10/10/2022
+Gaya,Satisfactory,72,"PM, CO10",3,10/10/2022
+Ghaziabad,Good,19,"O, NO32",4,10/10/2022
+Gorakhpur,Good,50,SO2,1,10/10/2022
+Greater Noida,Good,26,"CO, NO2",2,10/10/2022
+Gummidipoondi,Good,14,NO2,1,10/10/2022
+Gurugram,Good,29,"O, PM, NO32.52",3,10/10/2022
+Guwahati,Good,43,"PM, PM102.5",2,10/10/2022
+Gwalior,Good,34,PM10,1,10/10/2022
+Hajipur,Satisfactory,89,PM10,1,10/10/2022
+Haldia,Good,24,CO,1,10/10/2022
+Hapur,Good,16,O3,1,10/10/2022
+Hassan,Good,32,NO2,1,10/10/2022
+Hisar,Satisfactory,54,O3,1,10/10/2022
+Hosur,Satisfactory,99,CO,1,10/10/2022
+Howrah,Good,41,"PM, CO10",3,10/10/2022
+Hubballi,Satisfactory,59,CO,1,10/10/2022
+Hyderabad,Good,43,"CO, PM2.5",11,10/10/2022
+Imphal,Satisfactory,100,"O, PM310",2,10/10/2022
+Indore,Satisfactory,85,PM10,1,10/10/2022
+Jaipur,Satisfactory,51,"O, CO3",3,10/10/2022
+Jalandhar,Satisfactory,55,PM10,1,10/10/2022
+Jhansi,Good,36,PM10,1,10/10/2022
+Jind,Satisfactory,55,CO,1,10/10/2022
+Jodhpur,Satisfactory,72,PM10,1,10/10/2022
+Kaithal,Good,25,PM10,1,10/10/2022
+Kalaburgi,Good,37,SO2,1,10/10/2022
+Kalyan,Satisfactory,98,PM10,1,10/10/2022
+Kannur,Satisfactory,67,PM10,1,10/10/2022
+Kanpur,Good,22,"O, PM, CO32.5",4,10/10/2022
+Katihar,Moderate,180,PM10,1,10/10/2022
+Katni,Satisfactory,53,PM10,1,10/10/2022
+Khanna,Satisfactory,58,PM10,1,10/10/2022
+Khurja,Good,43,SO2,1,10/10/2022
+Kishanganj,Satisfactory,71,O3,1,10/10/2022
+Kohima,Satisfactory,55,PM10,1,10/10/2022
+Kolkata,Good,42,"O, CO, NO32",6,10/10/2022
+Kollam,Satisfactory,72,PM10,1,10/10/2022
+Koppal,Satisfactory,59,O3,1,10/10/2022
+Kota,Good,47,PM10,1,10/10/2022
+Kurukshetra,Good,38,O3,1,10/10/2022
+Lucknow,Good,36,"NO, CO, O23",6,10/10/2022
+Ludhiana,Satisfactory,78,PM10,1,10/10/2022
+Madikeri,Good,27,O3,1,10/10/2022
+Maihar,Good,15,PM10,1,10/10/2022
+Mandi Gobindgarh,Satisfactory,97,PM10,1,10/10/2022
+Mandideep,Satisfactory,66,PM10,1,10/10/2022
+Mandikhera,Satisfactory,61,PM10,1,10/10/2022
+Manesar,Good,34,PM10,1,10/10/2022
+Manglore,Satisfactory,57,CO,1,10/10/2022
+Manguraha,Good,35,PM10,1,10/10/2022
+Moradabad,Good,26,"SO, PM210",3,10/10/2022
+Motihari,Good,50,O3,1,10/10/2022
+Mumbai,Satisfactory,71,"NO, PM, PM22.510",15,10/10/2022
+Muzaffarnagar,Satisfactory,90,CO,1,10/10/2022
+Muzaffarpur,Satisfactory,54,"PM, PM102.5",2,10/10/2022
+Mysuru,Satisfactory,60,PM10,1,10/10/2022
+Nagpur,Good,39,CO,1,10/10/2022
+Nandesari,Satisfactory,61,PM2.5,1,10/10/2022
+Narnaul,Good,22,PM2.5,1,10/10/2022
+Nashik,Good,48,PM2.5,1,10/10/2022
+Navi Mumbai,Satisfactory,75,"PM, PM2.510",3,10/10/2022
+Noida,Good,49,"CO, NO, O23",4,10/10/2022
+Ooty,Good,48,SO2,1,10/10/2022
+Pali,Satisfactory,63,PM10,1,10/10/2022
+Palwal,Good,48,CO,1,10/10/2022
+Panchkula,Moderate,114,PM2.5,1,10/10/2022
+Panipat,Good,35,PM10,1,10/10/2022
+Patiala,Good,46,O3,1,10/10/2022
+Patna,Satisfactory,72,"PM, NO102",6,10/10/2022
+Pithampur,Satisfactory,81,PM10,1,10/10/2022
+Prayagraj,Satisfactory,53,"PM, O2.53",3,10/10/2022
+Puducherry,Good,32,CO,1,10/10/2022
+Purnia,Satisfactory,75,PM10,1,10/10/2022
+Rajamahendravaram,Good,34,CO,1,10/10/2022
+Rajgir,Satisfactory,59,CO,1,10/10/2022
+Ramanagara,Good,46,PM10,1,10/10/2022
+Ramanathapuram,Good,31,PM2.5,1,10/10/2022
+Ratlam,Good,41,PM10,1,10/10/2022
+Rohtak,Satisfactory,54,PM2.5,1,10/10/2022
+Rupnagar,Satisfactory,59,PM2.5,1,10/10/2022
+Sagar,Satisfactory,54,CO,1,10/10/2022
+Saharsa,Satisfactory,71,PM10,1,10/10/2022
+Samastipur,Moderate,104,PM10,1,10/10/2022
+Sasaram,Satisfactory,87,CO,1,10/10/2022
+Satna,Good,31,PM10,1,10/10/2022
+Shillong,Good,22,PM10,1,10/10/2022
+Shivamogga,Good,45,PM10,1,10/10/2022
+Siliguri,Good,30,PM10,1,10/10/2022
+Singrauli,Satisfactory,84,NO2,1,10/10/2022
+Sivasagar,Good,16,CO,1,10/10/2022
+Siwan,Good,50,NO2,1,10/10/2022
+Solapur,Satisfactory,70,PM10,1,10/10/2022
+Sonipat,Good,30,O3,1,10/10/2022
+Srinagar,Satisfactory,72,PM10,1,10/10/2022
+Thane,Satisfactory,63,PM10,1,10/10/2022
+Thiruvananthapuram,Good,41,CO,1,10/10/2022
+Thoothukudi,Good,38,PM10,1,10/10/2022
+Tirupati,Good,47,CO,1,10/10/2022
+Tiruppur,Moderate,127,PM10,1,10/10/2022
+Udaipur,Satisfactory,91,PM10,1,10/10/2022
+Ujjain,Satisfactory,77,PM10,1,10/10/2022
+Varanasi,Satisfactory,60,"PM, NO102",4,10/10/2022
+Vatva,Satisfactory,62,PM10,1,10/10/2022
+Visakhapatnam,Good,49,CO,1,10/10/2022
+Vrindavan,Satisfactory,52,SO2,1,10/10/2022
+Yadgir,Good,28,CO,1,10/10/2022
+Yamunanagar,Good,37,PM10,1,10/10/2022
