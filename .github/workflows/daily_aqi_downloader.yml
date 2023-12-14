@@ -1,0 +1,36 @@
+name: Daily AQI Data Download
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # Schedule at 5 PM IST (11:00 AM UTC)
+
+jobs:
+  run_daily_aqi_downloader:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Cache Python dependencies
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt  # Replace with the actual requirements file if needed
+
+    - name: Run Daily AQI Downloader
+      run: python Daily_aqi_downloader.py
+
