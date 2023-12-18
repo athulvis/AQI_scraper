@@ -1,2 +1,4 @@
-requests
-pandas
+camelot_py==0.9.0
+opencv_python==4.8.1.78
+pandas==2.1.4
+Requests==2.31.0

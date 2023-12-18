@@ -38,3 +38,11 @@ jobs:
     - name: Run Daily AQI Downloader
       run: python Daily_aqi_downloader.py
 
+    - name: Commit changes
+      run: |
+        git config --global user.email "garunalways@gmail.com"
+        git config --global user.name "arungop"
+        git add data/
+        git commit -m "Add downloaded file to data folder"
+        git push
+
