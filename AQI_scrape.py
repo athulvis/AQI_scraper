@@ -3,6 +3,7 @@ import pandas as pd
 import camelot
 from datetime import datetime
 import cv2
+import ghostscript
 
 # Date
 today = datetime.today()
@@ -20,12 +21,14 @@ def filter_df(df):
     df.reset_index(drop=True, inplace=True)
     return df
 
-# Even number of dataframes
+# All tables except the last one
 table_list = []
 for num, table in enumerate(tables):
-    if num % 2 == 0:
+    if num < len(tables) - 1:
         table_df = table.df
-        table_list.append(table_df.drop(0).drop(0, axis=1, inplace=True))
+        modified_df = table_df.drop(0).drop(0, axis=1)
+        table_list.append(modified_df)
+
 
 # Concatenate all dataframes
 df = pd.concat(table_list)
@@ -39,4 +42,6 @@ df['Date'] = date_str
 # Append new data with old file
 with open('AQI.csv', 'a') as f:
     df.to_csv(f, header=False, index=False)
+    
+print("Successfully completed...")    
 
