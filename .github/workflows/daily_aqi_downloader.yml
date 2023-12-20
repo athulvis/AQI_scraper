@@ -3,8 +3,10 @@ name: Daily AQI Data Download
 on:
   push:
     branches: [ "main"]
+    paths: ['data/**']
   pull_request:
     branches: [ "main" ]
+    paths: ['folder/**']
   schedule:
     - cron: '0 11 * * *'  # Schedule at 5 PM IST (11:00 AM UTC)
 
