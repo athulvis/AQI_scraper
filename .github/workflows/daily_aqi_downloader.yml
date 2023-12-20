@@ -40,9 +40,12 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --global user.email "garunalways@gmail.com"
-        git config --global user.name "arungop"
+
+      git config user.name github-actions
+        git config user.email github-actions@github.com
         git add data/
-        git commit -m "Add downloaded file to data folder"
-        git push
+        git commit -am "GH ACTION data update $(date)"
+        git push origin main
+
+
 
