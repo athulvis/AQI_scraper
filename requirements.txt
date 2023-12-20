@@ -1,4 +1,4 @@
-camelot_py==0.9.0
+camelot_py==0.11.0
 ghostscript==0.7
 opencv_python==4.8.1.78
 pandas==2.1.4
