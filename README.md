@@ -17,8 +17,8 @@ Feel free to explore the data for your analysis or research purposes. The PDF fi
 ## Future Work
 
 As part of future enhancements, we plan to implement the following:
-
-- **Conversion to CSV Format:** Develop a script to convert the PDF data into CSV format, making it more accessible for analysis using tools like Pandas.
+- [x] **Pdf to CSV:**Scrape old pdf files and get data to more accessible format like csv 
+- [ ] **Cleaning the CSV data:** Use pandas to clean and make a neat database of already scrapped csv data. Also append present data with the old ones.
 
 ## Contributing
 
