@@ -50080,3 +50080,243 @@ Visakhapatnam,Moderate,152,O3,1/1,20240505
 Vrindavan,Moderate,141,PM10,1/1,20240505
 Yadgir,Satisfactory,80,PM10,1/1,20240505
 Yamuna Nagar,Satisfactory,99,PM10,1/1,20240505
+Agra,Satisfactory,89,"PM, PM102.5",5/6,20240506
+Ahmedabad,Satisfactory,98,"PM, PM102.5",8/9,20240506
+Ahmednagar,Satisfactory,75,PM10,1/1,20240506
+Aizawl,Good,27,PM10,1/1,20240506
+Ajmer,Moderate,104,PM10,1/1,20240506
+Akola,Satisfactory,95,PM10,1/1,20240506
+Alwar,Moderate,105,PM10,1/1,20240506
+Amaravati,Satisfactory,67,PM10,1/1,20240506
+Ambala,Satisfactory,88,PM10,1/1,20240506
+Amravati,Satisfactory,88,PM10,2/2,20240506
+Amritsar,Satisfactory,89,PM2.5,1/1,20240506
+Anantapur,Satisfactory,94,PM10,1/1,20240506
+Angul,Moderate,112,PM10,1/1,20240506
+Ariyalur,Satisfactory,64,PM10,1/1,20240506
+Arrah,Moderate,101,PM10,1/1,20240506
+Asansol,Moderate,184,PM2.5,1/1,20240506
+Aurangabad (Bihar),Moderate,146,PM2.5,1/1,20240506
+Aurangabad(Maharashtra),Satisfactory,90,"O, PM32.5",2/3,20240506
+Baddi,Moderate,166,PM10,1/1,20240506
+Badlapur,Satisfactory,74,PM10,1/1,20240506
+Bagalkot,Good,46,PM10,1/1,20240506
+Baghpat,Poor,222,PM10,1/2,20240506
+Bahadurgarh,Poor,234,PM2.5,1/1,20240506
+Balasore,Satisfactory,72,CO,1/1,20240506
+Ballabgarh,Poor,216,PM2.5,1/1,20240506
+Banswara,Moderate,120,PM10,1/1,20240506
+Baran,Moderate,128,PM10,1/1,20240506
+Barbil,Poor,261,PM10,1/1,20240506
+Bareilly,Satisfactory,91,PM10,1/2,20240506
+Baripada,Satisfactory,91,PM10,1/1,20240506
+Barmer,Moderate,120,PM10,1/1,20240506
+Barrackpore,Satisfactory,79,PM10,1/1,20240506
+Bathinda,Moderate,132,PM10,1/1,20240506
+Belapur,Moderate,159,O3,1/1,20240506
+Belgaum,Satisfactory,55,PM10,1/1,20240506
+Bengaluru,Satisfactory,84,"PM, O103",11/14,20240506
+Bhagalpur,Moderate,114,"PM, PM102.5",2/2,20240506
+Bharatpur,Poor,225,PM2.5,1/1,20240506
+Bhilai,Satisfactory,87,PM10,3/3,20240506
+Bhilwara,Satisfactory,67,O3,1/1,20240506
+Bhiwadi,Poor,283,"PM, PM102.5",2/2,20240506
+Bhiwandi,Satisfactory,71,PM10,1/1,20240506
+Bhiwani,Poor,219,PM2.5,1/1,20240506
+Bhopal,Satisfactory,85,PM10,3/3,20240506
+Bhubaneswar,Satisfactory,79,"O, CO3",2/2,20240506
+Bidar,Satisfactory,70,PM2.5,1/1,20240506
+Bihar Sharif,Moderate,107,PM10,1/1,20240506
+Bikaner,Moderate,157,PM10,1/1,20240506
+Bilaspur,Satisfactory,65,PM2.5,1/1,20240506
+Bileipada,Poor,244,PM10,1/1,20240506
+Boisar,Moderate,105,PM10,1/1,20240506
+Brajrajnagar,Moderate,132,PM10,1/1,20240506
+Bulandshahr,Moderate,152,PM2.5,1/1,20240506
+Bundi,Moderate,158,O3,1/1,20240506
+Buxar,Poor,258,PM2.5,1/1,20240506
+Byasanagar,Satisfactory,89,PM10,1/1,20240506
+Byrnihat,Satisfactory,57,PM10,1/1,20240506
+Chamarajanagar,Good,47,PM10,1/1,20240506
+Chandigarh,Moderate,145,PM10,3/3,20240506
+Chandrapur,Moderate,110,PM2.5,1/2,20240506
+Charkhi Dadri,Moderate,181,PM2.5,1/1,20240506
+Chengalpattu,Moderate,185,NO2,1/1,20240506
+Chennai,Satisfactory,59,"PM, CO10",6/9,20240506
+Chhal,Moderate,113,PM2.5,1/1,20240506
+Chhapra,Moderate,123,PM10,1/1,20240506
+Chikkaballapur,Satisfactory,92,PM10,1/1,20240506
+Chikkamagaluru,Satisfactory,65,PM2.5,1/1,20240506
+Chittorgarh,Moderate,165,O3,1/1,20240506
+Cuddalore,Satisfactory,68,"PM, PM102.5",2/2,20240506
+Cuttack,Satisfactory,86,PM10,1/1,20240506
+Dausa,Moderate,185,PM10,1/1,20240506
+Davanagere,Satisfactory,80,PM10,1/1,20240506
+Dehradun,Moderate,135,PM10,1/1,20240506
+Delhi,Poor,247,"PM, PM102.5",37/40,20240506
+Dewas,Good,38,SO2,1/1,20240506
+Dhanbad,Moderate,172,PM10,1/2,20240506
+Dharuhera,Poor,268,PM10,1/1,20240506
+Dharwad,Moderate,115,PM10,1/1,20240506
+Dholpur,Moderate,154,PM10,1/1,20240506
+Dhule,Satisfactory,76,PM10,1/1,20240506
+Dungarpur,Good,41,O3,1/1,20240506
+Durgapur,Moderate,124,"PM, PM102.5",2/2,20240506
+Eloor,Satisfactory,69,CO,1/1,20240506
+Faridabad,Poor,230,"PM, PM102.5",4/4,20240506
+Fatehabad,Moderate,150,PM10,1/1,20240506
+Firozabad,Satisfactory,80,"PM, PM102.5",2/2,20240506
+Gadag,Satisfactory,59,O3,1/1,20240506
+Gandhinagar,Satisfactory,59,PM10,1/3,20240506
+Gangtok,Satisfactory,58,O3,1/1,20240506
+Gaya,Moderate,114,"PM, PM102.5",3/3,20240506
+Ghaziabad,Poor,231,"PM, O103",4/4,20240506
+Gorakhpur,Moderate,112,PM2.5,1/1,20240506
+Greater Noida,Poor,240,PM10,2/2,20240506
+Gummidipoondi,Satisfactory,82,PM10,1/1,20240506
+Gurugram,Poor,248,"PM, PM102.5",3/4,20240506
+Guwahati,Good,44,"PM, PM102.5",3/4,20240506
+Gwalior,Poor,214,O3,2/4,20240506
+Hajipur,Moderate,161,PM10,1/1,20240506
+Haldia,Good,40,PM10,1/1,20240506
+Hapur,Moderate,163,PM10,1/1,20240506
+Hisar,Moderate,170,O3,1/1,20240506
+Howrah,Satisfactory,72,PM10,3/3,20240506
+Hubballi,Satisfactory,70,PM10,2/2,20240506
+Hyderabad,Satisfactory,87,"PM, NO, PM1022.5",9/14,20240506
+Indore,Satisfactory,56,"PM, PM, SO102.52",4/5,20240506
+Jabalpur,Moderate,124,O3,4/4,20240506
+Jaipur,Moderate,161,PM10,6/6,20240506
+Jaisalmer,Moderate,123,PM10,1/1,20240506
+Jalandhar,Moderate,120,PM10,1/1,20240506
+Jalgaon,Satisfactory,91,PM10,1/1,20240506
+Jalna,Satisfactory,91,PM10,1/1,20240506
+Jalore,Satisfactory,81,PM10,1/1,20240506
+Jhalawar,Moderate,106,PM10,1/1,20240506
+Jhansi,Satisfactory,52,O3,1/1,20240506
+Jhunjhunu,Moderate,146,PM10,1/1,20240506
+Jind,Moderate,144,PM10,1/1,20240506
+Jodhpur,Moderate,122,PM10,5/5,20240506
+Kadapa,Satisfactory,76,O3,1/1,20240506
+Kalaburagi,Satisfactory,72,"PM, PM102.5",2/2,20240506
+Kalyan,Satisfactory,93,PM10,1/1,20240506
+Kannur,Satisfactory,72,PM2.5,1/1,20240506
+Kanpur,Moderate,143,"PM, PM102.5",3/4,20240506
+Karauli,Moderate,153,O3,1/1,20240506
+Karnal,Moderate,163,PM2.5,1/1,20240506
+Karwar,Good,48,PM10,1/1,20240506
+Kashipur,Moderate,109,PM10,1/1,20240506
+Katni,Moderate,101,PM10,1/1,20240506
+Keonjhar,Moderate,142,PM2.5,1/1,20240506
+Khanna,Moderate,154,PM2.5,1/1,20240506
+Khurja,Moderate,156,PM2.5,1/1,20240506
+Kishanganj,Moderate,125,PM10,1/1,20240506
+Kolar,Satisfactory,85,PM10,1/1,20240506
+Kolhapur,Moderate,103,PM10,1/2,20240506
+Kolkata,Satisfactory,70,"PM, O103",7/7,20240506
+Kollam,Moderate,118,PM2.5,1/1,20240506
+Koppal,Satisfactory,83,CO,1/1,20240506
+Korba,Satisfactory,78,"PM, NO102",2/2,20240506
+Kota,Moderate,122,"PM, O103",3/3,20240506
+Kunjemura,Moderate,194,PM10,1/1,20240506
+Kurukshetra,Moderate,153,PM10,1/1,20240506
+Latur,Satisfactory,78,PM10,1/1,20240506
+Lucknow,Moderate,190,"PM, PM102.5",6/6,20240506
+Ludhiana,Moderate,142,PM2.5,1/1,20240506
+Madikeri,Good,31,PM10,1/1,20240506
+Mahad,Satisfactory,68,PM10,1/1,20240506
+Malegaon,Moderate,102,PM10,1/1,20240506
+Mandi Gobindgarh,Poor,209,PM2.5,1/1,20240506
+Mandideep,Satisfactory,91,PM10,1/1,20240506
+Mandikhera,Moderate,107,PM10,1/1,20240506
+Manesar,Poor,235,PM2.5,1/1,20240506
+Mangalore,Good,39,PM10,1/1,20240506
+Meerut,Poor,210,PM10,3/3,20240506
+Milupara,Satisfactory,94,PM10,1/1,20240506
+Mira-Bhayandar,Satisfactory,85,PM10,1/1,20240506
+Moradabad,Moderate,134,"PM, O103",6/7,20240506
+Mumbai,Satisfactory,68,PM10,24/30,20240506
+Munger,Moderate,109,PM10,1/1,20240506
+Muzaffarnagar,Poor,226,PM10,1/1,20240506
+Muzaffarpur,Moderate,132,PM2.5,2/3,20240506
+Mysuru,Satisfactory,63,O3,1/1,20240506
+Nagaon,Satisfactory,78,PM10,1/1,20240506
+Nagaur,Moderate,128,PM10,1/1,20240506
+Nagpur,Satisfactory,71,PM10,3/4,20240506
+Naharlagun,Good,50,PM10,1/1,20240506
+Nalbari,Satisfactory,68,CO,1/1,20240506
+Nanded,Moderate,125,O3,1/1,20240506
+Nandesari,Moderate,128,PM10,1/1,20240506
+Narnaul,Moderate,134,PM2.5,1/1,20240506
+Nashik,Satisfactory,57,PM10,4/4,20240506
+Navi Mumbai,Satisfactory,97,PM10,6/8,20240506
+Nayagarh,Poor,204,PM2.5,1/1,20240506
+Noida,Poor,230,PM10,4/4,20240506
+Pali,Moderate,138,PM10,1/1,20240506
+Palkalaiperur,Good,43,PM10,1/1,20240506
+Palwal,Moderate,116,PM10,1/1,20240506
+Panchkula,Poor,224,PM2.5,1/1,20240506
+Panipat,Satisfactory,92,PM2.5,1/1,20240506
+Parbhani,Satisfactory,100,PM10,1/1,20240506
+Patiala,Moderate,161,PM10,1/1,20240506
+Patna,Poor,202,"PM, PM102.5",6/6,20240506
+Pimpri-Chinchwad,Satisfactory,60,"PM, CO10",3/3,20240506
+Pithampur,Satisfactory,95,PM10,1/1,20240506
+Pratapgarh,Satisfactory,76,PM10,1/1,20240506
+Prayagraj,Satisfactory,99,"PM, SO102",3/3,20240506
+Puducherry,Satisfactory,77,O3,1/1,20240506
+Pune,Satisfactory,75,"PM, NO102",8/10,20240506
+Purnia,Satisfactory,78,PM10,1/1,20240506
+Raichur,Moderate,119,PM10,1/1,20240506
+Raipur,Satisfactory,92,"PM, PM102.5",3/4,20240506
+Rairangpur,Moderate,121,PM2.5,1/1,20240506
+Rajamahendravaram,Good,46,O3,1/1,20240506
+Rajgir,Satisfactory,81,PM2.5,1/1,20240506
+Rajsamand,Satisfactory,55,O3,1/1,20240506
+Ramanathapuram,Good,47,PM10,1/1,20240506
+Ratlam,Moderate,198,NO2,1/1,20240506
+Rishikesh,Moderate,153,PM2.5,1/1,20240506
+Rohtak,Moderate,168,PM2.5,1/1,20240506
+Rourkela,Poor,209,"PM, PM102.5",3/3,20240506
+Rupnagar,Poor,209,PM2.5,1/1,20240506
+Sagar,Moderate,124,PM10,2/2,20240506
+Saharsa,Satisfactory,80,PM2.5,1/1,20240506
+Samastipur,Moderate,103,PM2.5,1/1,20240506
+Sangli,Satisfactory,72,O3,1/1,20240506
+Sasaram,Moderate,107,PM10,1/1,20240506
+Satna,Satisfactory,81,PM10,1/1,20240506
+Sawai Madhopur,Moderate,158,O3,1/1,20240506
+Shivamogga,Satisfactory,60,O3,1/1,20240506
+Silchar,Good,45,PM10,1/1,20240506
+Siliguri,Satisfactory,56,PM10,1/1,20240506
+Singrauli,Poor,219,PM2.5,1/1,20240506
+Sirohi,Satisfactory,74,O3,1/1,20240506
+Sirsa,Moderate,117,PM2.5,1/1,20240506
+Sivasagar,Satisfactory,58,PM10,1/1,20240506
+Siwan,Moderate,173,PM2.5,1/1,20240506
+Solapur,Moderate,114,PM10,3/3,20240506
+Sonipat,Satisfactory,87,PM10,1/1,20240506
+Suakati,Moderate,148,PM2.5,1/1,20240506
+Surat,Good,41,NO2,1/1,20240506
+Talcher,Satisfactory,71,PM10,1/1,20240506
+Tensa,Moderate,115,PM10,1/1,20240506
+Thane,Satisfactory,61,PM10,3/3,20240506
+Thiruvananthapuram,Satisfactory,64,PM10,2/2,20240506
+Thoothukudi,Satisfactory,72,PM10,1/1,20240506
+Thrissur,Satisfactory,64,PM10,1/1,20240506
+Tirupati,Satisfactory,64,"PM, PM102.5",2/2,20240506
+Tonk,Moderate,148,PM10,1/1,20240506
+Tumakuru,Moderate,160,PM10,1/1,20240506
+Udaipur,Satisfactory,88,PM10,1/1,20240506
+Udupi,Satisfactory,69,PM10,1/1,20240506
+Ujjain,Satisfactory,87,O3,1/1,20240506
+Ulhasnagar,Satisfactory,76,PM10,1/1,20240506
+Varanasi,Satisfactory,60,PM10,2/4,20240506
+Vatva,Satisfactory,93,PM10,1/1,20240506
+Vijayapura,Moderate,124,CO,1/1,20240506
+Vijayawada,Satisfactory,78,"PM, O, PM1032.5",4/4,20240506
+Virar,Satisfactory,58,PM10,1/1,20240506
+Virudhunagar,Good,48,PM10,1/1,20240506
+Visakhapatnam,Satisfactory,92,PM10,1/1,20240506
+Vrindavan,Moderate,116,PM10,1/1,20240506
+Yadgir,Satisfactory,78,PM10,1/1,20240506
