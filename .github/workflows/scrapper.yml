@@ -17,18 +17,18 @@ jobs:
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v4 # checkout the repository content to github runner
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10' # install the python version needed
           
       - name: install dependencies
         run: |
-          sudo apt-get install -y python3-tk libgs9
-          wget -c http://archive.ubuntu.com/ubuntu/pool/main/g/ghostscript/ghostscript_9.55.0~dfsg1-0ubuntu5_amd64.deb
-          sudo dpkg -i ghostscript_9.55.0~dfsg1-0ubuntu5_amd64.deb
+          sudo apt-get install -y python3-tk ghostscript # libgs9
+          # wget -c http://archive.ubuntu.com/ubuntu/pool/main/g/ghostscript/ghostscript_9.55.0~dfsg1-0ubuntu5_amd64.deb
+          # sudo dpkg -i ghostscript_9.55.0~dfsg1-0ubuntu5_amd64.deb
           
       - name: install python packages
         run: |
