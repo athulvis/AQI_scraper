@@ -1,6 +1,6 @@
 # AQI Data from CPCB (Central Pollution Control Board)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPL_3.0-blue.svg)](LICENSE)
 
 ## Overview
 
