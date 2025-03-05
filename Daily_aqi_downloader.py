@@ -5,7 +5,7 @@ import pandas as pd
 
 # Date
 today = datetime.today()
-date_str = today.strftime("%Y%m%d")
+date_str = '20250304'#today.strftime("%Y%m%d")
 
 # Functions
 
