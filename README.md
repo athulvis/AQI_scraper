@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-GPL_3.0-blue.svg)](LICENSE)
 
+[![scraper](https://github.com/athulvis/AQI_scraper/actions/workflows/scrapper.yml/badge.svg)](https://github.com/athulvis/AQI_scraper/actions/workflows/scrapper.yml)
 ## Overview
 
 This repository contains Air Quality Index (AQI) data collected from [CPCB (Central Pollution Control Board)](https://cpcb.nic.in/) in India. The data spans from 2015 onwards, providing valuable insights into air quality trends over the years.
