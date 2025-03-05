@@ -7,7 +7,7 @@ import ghostscript
 
 # Date
 today = datetime.today()
-date_str = '20250304'#today.strftime("%Y%m%d")
+date_str = today.strftime("%Y%m%d")
 #print(date_str)
 file = f'data/AQI_Bulletin_{date_str}.pdf'
 
