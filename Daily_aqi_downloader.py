@@ -13,7 +13,7 @@ def download_file(date_str):
     """
     Download AQI Bulletin PDF file for a specific date.
     """
-    file_url = f"https://cpcb.nic.in//upload/Downloads/AQI_Bulletin_{date_str}.pdf"
+    file_url = f"https://cpcb.nic.in/upload/Downloads/AQI_Bulletin_{date_str}.pdf"
     filename = f"AQI_Bulletin_{date_str}.pdf"
     response = requests.get(file_url)
     
