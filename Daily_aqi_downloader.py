@@ -15,7 +15,7 @@ def download_file(date_str):
     """
     file_url = f"https://cpcb.nic.in/upload/Downloads/AQI_Bulletin_{date_str}.pdf"
     filename = f"AQI_Bulletin_{date_str}.pdf"
-    response = requests.get(file_url)
+    response = requests.get(file_url, verify=False)
     
     with open(os.path.join("data/", filename), "wb") as f:
         f.write(response.content)
