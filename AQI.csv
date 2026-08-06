@@ -103994,3 +103994,246 @@ Visakhapatnam,Moderate,145,PM10,1/1,20260617
 Vrindavan,Satisfactory,51,PM10,1/1,20260617
 Yadgir,Satisfactory,71,PM10,1/1,20260617
 Yamuna Nagar,Satisfactory,62,O3,1/1,20260617
+Agartala,Satisfactory,69,PM<s>10</s>,1/2,20260806
+Agra,Satisfactory,55,"PM<s>2.5</s>, SO2, PM<s>10</s>",6/6,20260806
+Ahmedabad,Satisfactory,85,"PM<s>2.5</s>, PM<s>10</s>",6/9,20260806
+Ahmednagar,Good,47,PM<s>10</s>,1/1,20260806
+Ajmer,Satisfactory,84,PM<s>10</s>,1/1,20260806
+Akola,Good,36,PM<s>10</s>,1/1,20260806
+Alwar,Satisfactory,89,PM<s>10</s>,2/2,20260806
+Amaravati,Satisfactory,67,PM<s>10</s>,1/1,20260806
+Ambala,Satisfactory,62,PM<s>10</s>,1/1,20260806
+Ambernath,Satisfactory,71,PM<s>10</s>,1/1,20260806
+Amravati,Good,37,"PM<s>10</s>, PM<s>2.5</s>",2/2,20260806
+Amritsar,Satisfactory,75,PM<s>10</s>,1/1,20260806
+Angul,Satisfactory,76,O<s>3</s>,1/1,20260806
+Ankleshwar,Satisfactory,74,PM<s>10</s>,1/1,20260806
+Asansol,Satisfactory,56,"SO2, CO",4/4,20260806
+Aurangabad (Maharashtra),Satisfactory,53,PM<s>10</s>,3/3,20260806
+Baddi,Moderate,104,SO2,1/1,20260806
+Badlapur,Good,44,CO,1/1,20260806
+Bagalkot,Satisfactory,51,PM<s>10</s>,1/1,20260806
+Bahadurgarh,Good,49,PM<s>10</s>,1/1,20260806
+Balasore,Satisfactory,56,O<s>3</s>,1/1,20260806
+Ballabgarh,Satisfactory,75,PM<s>2.5</s>,1/1,20260806
+Banswara,Satisfactory,58,PM<s>10</s>,1/1,20260806
+Baran,Satisfactory,55,PM<s>10</s>,1/1,20260806
+Bareilly,Good,40,"PM<s>10</s>, SO2",2/2,20260806
+Baripada,Good,48,O<s>3</s>,1/1,20260806
+Barmer,Satisfactory,90,PM<s>10</s>,1/1,20260806
+Barrackpore,Good,47,CO,1/1,20260806
+Beed,Good,42,PM<s>10</s>,1/1,20260806
+Begusarai,Good,32,PM<s>10</s>,1/1,20260806
+Belapur,Good,32,CO,1/1,20260806
+Bengaluru,Satisfactory,61,PM<s>10</s>,7/14,20260806
+Bhagalpur,Moderate,121,"PM<s>2.5</s>, PM<s>10</s>",2/2,20260806
+Bharatpur,Good,35,O<s>3</s>,1/1,20260806
+Bhavnagar,Satisfactory,67,PM<s>10</s>,1/1,20260806
+Bhilai,Good,29,"PM<s>10</s>, CO",3/3,20260806
+Bhilwara,Satisfactory,87,PM<s>10</s>,1/1,20260806
+Bhiwadi,Satisfactory,74,PM<s>10</s>,2/2,20260806
+Bhiwandi,Satisfactory,55,PM<s>10</s>,1/1,20260806
+Bhiwani,Moderate,159,PM<s>2.5</s>,1/1,20260806
+Bhopal,Satisfactory,58,PM<s>10</s>,3/3,20260806
+Bhubaneswar,Satisfactory,54,O<s>3</s>,2/2,20260806
+Bikaner,Satisfactory,99,PM<s>10</s>,1/1,20260806
+Bilaspur,Good,30,CO,1/1,20260806
+Bileipada,Satisfactory,53,PM<s>10</s>,1/1,20260806
+Boisar,Satisfactory,54,PM<s>10</s>,1/1,20260806
+Brajrajnagar,Good,49,CO,1/1,20260806
+Bulandshahr,Good,41,PM<s>10</s>,1/1,20260806
+Bundi,Satisfactory,77,PM<s>10</s>,1/1,20260806
+Byrnihat (Assam),Satisfactory,95,PM<s>2.5</s>,1/1,20260806
+Byrnihat (Meghalaya),Satisfactory,94,PM<s>2.5</s>,1/1,20260806
+Chamarajanagar,Good,44,PM<s>10</s>,1/1,20260806
+Chandigarh,Good,38,"CO, PM<s>10</s>, NO2",3/3,20260806
+Chandrapur,Good,45,"PM<s>10</s>, CO",2/2,20260806
+Charkhi dadri,Satisfactory,97,PM<s>2.5</s>,1/1,20260806
+Chennai,Satisfactory,80,"PM<s>10</s>, O<s>3</s>",7/9,20260806
+Chhal,Good,43,O<s>3</s>,1/1,20260806
+Chhapra,Satisfactory,100,CO,1/1,20260806
+Chikkaballapur,Good,30,PM<s>10</s>,1/1,20260806
+Chikkamagaluru,Good,29,PM<s>10</s>,1/1,20260806
+Chittoor,Satisfactory,65,PM<s>10</s>,1/1,20260806
+Chittorgarh,Satisfactory,67,PM<s>10</s>,1/1,20260806
+Churu,Satisfactory,91,PM<s>10</s>,1/1,20260806
+Coimbatore,Good,26,SO2,1/2,20260806
+Cuddalore,Good,23,SO2,1/2,20260806
+Cuttack,Good,47,O<s>3</s>,1/1,20260806
+Damoh,Good,50,SO2,1/1,20260806
+Dausa,Satisfactory,70,PM<s>10</s>,1/1,20260806
+Delhi,Satisfactory,74,PM<s>10</s>,43/46,20260806
+Dewas,Satisfactory,96,PM<s>10</s>,1/1,20260806
+Dharuhera,Satisfactory,82,PM<s>2.5</s>,1/1,20260806
+Dharwad,Satisfactory,66,PM<s>10</s>,1/1,20260806
+Dholpur,Good,32,CO,1/1,20260806
+Dhule,Satisfactory,58,PM<s>10</s>,1/1,20260806
+Dombivli,Good,34,O<s>3</s>,1/1,20260806
+Dungarpur,Satisfactory,76,PM<s>10</s>,1/1,20260806
+Durgapur,Good,46,"NO2, PM<s>10</s>, O<s>3</s>",3/3,20260806
+Eloor,Satisfactory,67,CO,1/1,20260806
+Eluru,Good,49,PM<s>10</s>,1/1,20260806
+Faridabad,Moderate,113,"PM<s>2.5</s>, PM<s>10</s>",3/4,20260806
+Fatehabad,Satisfactory,63,PM<s>10</s>,1/1,20260806
+Fatehpur sikri,Good,29,PM<s>10</s>,1/1,20260806
+Firozabad,Satisfactory,53,"PM<s>2.5</s>, PM<s>10</s>",2/2,20260806
+Gadag,Good,39,CO,1/1,20260806
+Gandhinagar,Satisfactory,89,PM<s>10</s>,3/3,20260806
+Gaya,Satisfactory,89,"PM<s>2.5</s>, PM<s>10</s>",3/3,20260806
+Ghaziabad,Satisfactory,82,"CO, PM<s>10</s>",6/7,20260806
+Gorakhpur,Satisfactory,55,PM<s>10</s>,1/1,20260806
+Greater noida,Satisfactory,97,PM<s>10</s>,1/2,20260806
+Gummidipoondi,Moderate,119,PM<s>2.5</s>,1/1,20260806
+Guntur,Satisfactory,61,PM<s>10</s>,1/1,20260806
+Gurugram,Satisfactory,90,"PM<s>2.5</s>, PM<s>10</s>",4/4,20260806
+Gwalior,Satisfactory,51,"CO, O<s>3</s>",3/4,20260806
+Hajipur,Good,35,O<s>3</s>,1/1,20260806
+Hanumangarh,Satisfactory,65,PM<s>10</s>,1/1,20260806
+Hapur,Good,46,CO,1/1,20260806
+Hingoli,Satisfactory,93,O<s>3</s>,1/1,20260806
+Howrah,Satisfactory,66,"PM<s>10</s>, CO, PM<s>2.5</s>",5/5,20260806
+Hyderabad,Good,45,"PM<s>10</s>, PM<s>2.5</s>",13/14,20260806
+Indore,Satisfactory,54,"PM<s>10</s>, PM<s>2.5</s>",5/6,20260806
+Jabalpur,Satisfactory,51,"NO2, PM<s>10</s>",2/4,20260806
+Jaipur,Satisfactory,92,PM<s>10</s>,4/6,20260806
+Jaisalmer,Moderate,120,PM<s>10</s>,1/1,20260806
+Jalandhar,Satisfactory,71,PM<s>2.5</s>,1/1,20260806
+Jalgaon,Good,36,PM<s>10</s>,1/1,20260806
+Jalna,Satisfactory,52,PM<s>10</s>,1/1,20260806
+Jalore,Satisfactory,85,PM<s>10</s>,1/1,20260806
+Jhalawar,Satisfactory,61,PM<s>10</s>,1/1,20260806
+Jhansi,Satisfactory,76,PM<s>10</s>,1/1,20260806
+Jhunjhunu,Satisfactory,77,PM<s>10</s>,1/1,20260806
+Jind,Satisfactory,56,PM<s>2.5</s>,1/1,20260806
+Jodhpur,Satisfactory,77,PM<s>10</s>,5/5,20260806
+Jorapokhar,Satisfactory,64,PM<s>10</s>,1/1,20260806
+Kaithal,Moderate,103,SO2,1/1,20260806
+Kakinada,Satisfactory,52,PM<s>10</s>,1/1,20260806
+Kalaburagi,Good,41,CO,1/2,20260806
+Kalyan,Satisfactory,68,"PM<s>10</s>, PM<s>2.5</s>",2/2,20260806
+Kannur,Satisfactory,70,PM<s>2.5</s>,1/1,20260806
+Kanpur,Satisfactory,51,"PM<s>10</s>, NO2",3/4,20260806
+Karnal,Satisfactory,52,CO,1/1,20260806
+Karwar,Good,47,PM<s>10</s>,1/1,20260806
+Katni,Satisfactory,79,PM<s>10</s>,1/1,20260806
+Keonjhar,Good,39,CO,1/1,20260806
+Khairthal,Satisfactory,72,PM<s>10</s>,1/1,20260806
+Khanna,Satisfactory,65,PM<s>10</s>,1/1,20260806
+Khora,Satisfactory,89,PM<s>2.5</s>,1/1,20260806
+Khurja,Satisfactory,54,PM<s>10</s>,1/1,20260806
+Kishanganj,Satisfactory,51,PM<s>2.5</s>,1/1,20260806
+Kohima,Satisfactory,54,SO2,1/1,20260806
+Kolhapur,Good,34,PM<s>10</s>,2/2,20260806
+Kolkata,Satisfactory,60,"PM<s>10</s>, O<s>3</s>, NO2",7/7,20260806
+Korba,Good,29,CO,1/2,20260806
+Kota,Satisfactory,81,PM<s>10</s>,2/3,20260806
+Kunjemura,Good,39,PM<s>10</s>,1/1,20260806
+Kurnool,Good,28,PM<s>10</s>,1/1,20260806
+Kurukshetra,Good,49,PM<s>10</s>,1/1,20260806
+Latur,Good,36,PM<s>10</s>,1/1,20260806
+Lucknow,Satisfactory,54,"PM<s>10</s>, CO",6/6,20260806
+Ludhiana,Satisfactory,70,PM<s>10</s>,1/1,20260806
+Machilipatnam,Satisfactory,69,PM<s>2.5</s>,1/1,20260806
+Madikeri,Good,14,PM<s>10</s>,1/1,20260806
+Madurai,Good,44,PM<s>10</s>,1/1,20260806
+Mahad,Good,35,PM<s>10</s>,1/1,20260806
+Maihar,Good,28,CO,1/1,20260806
+Malegaon,Satisfactory,59,PM<s>10</s>,1/1,20260806
+Mandideep,Satisfactory,76,PM<s>10</s>,1/1,20260806
+Mandi gobindgarh,Moderate,118,PM<s>10</s>,1/1,20260806
+Manesar,Good,42,NO2,1/1,20260806
+Mangalore,Good,49,PM<s>10</s>,1/1,20260806
+Manguraha,Satisfactory,73,PM<s>10</s>,1/1,20260806
+Mathura,Good,32,PM<s>2.5</s>,1/1,20260806
+Meerut,Satisfactory,53,"PM<s>10</s>, PM<s>2.5</s>, CO",3/4,20260806
+Mehsana,Satisfactory,85,PM<s>10</s>,1/1,20260806
+Mira-bhayandar,Good,36,PM<s>10</s>,1/1,20260806
+Moradabad,Good,26,O<s>3</s>,1/6,20260806
+Mumbai,Good,46,"PM<s>2.5</s>, PM<s>10</s>",19/30,20260806
+Munger,Good,48,O<s>3</s>,1/1,20260806
+Muzaffarnagar,Satisfactory,51,PM<s>2.5</s>,1/1,20260806
+Muzaffarpur,Good,33,"PM<s>10</s>, O<s>3</s>",2/3,20260806
+Mysuru,Satisfactory,54,PM<s>10</s>,1/1,20260806
+Nagaon,Satisfactory,54,PM<s>2.5</s>,1/1,20260806
+Nagaur,Satisfactory,83,PM<s>10</s>,1/1,20260806
+Nagpur,Good,43,PM<s>10</s>,4/4,20260806
+Naharlagun,Good,28,PM<s>10</s>,1/1,20260806
+Nalbari,Satisfactory,71,PM<s>2.5</s>,1/1,20260806
+Nanded,Good,35,O<s>3</s>,1/1,20260806
+Nandesari,Satisfactory,62,PM<s>10</s>,1/1,20260806
+Narnaul,Satisfactory,77,PM<s>10</s>,1/1,20260806
+Nashik,Good,34,"PM<s>10</s>, PM<s>2.5</s>",4/4,20260806
+Navi mumbai,Good,44,"CO, PM<s>10</s>",6/8,20260806
+Nellore,Satisfactory,60,PM<s>10</s>,1/1,20260806
+Noida,Satisfactory,76,PM<s>10</s>,4/4,20260806
+Pali,Moderate,135,PM<s>2.5</s>,1/1,20260806
+Pampore,Satisfactory,82,PM<s>10</s>,1/1,20260806
+Panchgaon,Good,48,CO,1/1,20260806
+Panchkula,Good,44,PM<s>2.5</s>,1/1,20260806
+Panipat,Satisfactory,96,PM<s>10</s>,1/1,20260806
+Parbhani,Good,34,O<s>3</s>,1/1,20260806
+Patiala,Good,47,PM<s>10</s>,1/1,20260806
+Patna,Good,49,"O<s>3</s>, CO",4/6,20260806
+Pimpri-chinchwad,Good,50,"PM<s>10</s>, CO",5/8,20260806
+Pithampur,Moderate,107,PM<s>10</s>,1/1,20260806
+Pratapgarh,Satisfactory,86,PM<s>10</s>,1/1,20260806
+Prayagraj,Satisfactory,79,"PM<s>10</s>, SO2",3/3,20260806
+Puducherry,Good,47,PM<s>10</s>,1/1,20260806
+Pune,Good,45,"CO, PM<s>10</s>",6/9,20260806
+Purnia,Satisfactory,56,CO,1/1,20260806
+Raebareli,Satisfactory,72,"CO, PM<s>10</s>",2/2,20260806
+Raipur,Good,41,PM<s>10</s>,4/4,20260806
+Rairangpur,Good,24,PM<s>10</s>,1/1,20260806
+Rajamahendravaram,Good,44,O<s>3</s>,1/1,20260806
+Rajkot,Satisfactory,83,PM<s>10</s>,1/1,20260806
+Rajsamand,Satisfactory,83,PM<s>10</s>,1/1,20260806
+Ramanagara,Good,42,PM<s>10</s>,1/1,20260806
+Ratlam,Good,35,NO2,1/1,20260806
+Rishikesh,Good,37,CO,1/1,20260806
+Rohtak,Good,38,PM<s>10</s>,1/1,20260806
+Rourkela,Good,50,"CO, PM<s>10</s>",2/3,20260806
+Rupnagar,Satisfactory,54,CO,1/1,20260806
+Sagar,Good,40,O<s>3</s>,1/2,20260806
+Saharsa,Good,40,PM<s>10</s>,1/1,20260806
+Samastipur,Satisfactory,76,PM<s>2.5</s>,1/1,20260806
+Sangli,Good,37,PM<s>10</s>,1/1,20260806
+Satara,Satisfactory,51,PM<s>10</s>,1/1,20260806
+Satna,Satisfactory,70,PM<s>10</s>,1/1,20260806
+Sawai madhopur,Satisfactory,67,PM<s>10</s>,1/1,20260806
+Shamli,Satisfactory,85,CO,1/1,20260806
+Shillong,Good,28,SO2,1/2,20260806
+Shivamogga,Good,37,PM<s>10</s>,1/1,20260806
+Sikar,Good,44,PM<s>2.5</s>,1/1,20260806
+Silchar,Good,40,PM<s>10</s>,1/1,20260806
+Siliguri,Moderate,122,NO2,1/1,20260806
+Sirohi,Satisfactory,79,PM<s>10</s>,1/1,20260806
+Sirsa,Satisfactory,80,CO,1/1,20260806
+Siwan,Moderate,105,PM<s>10</s>,1/1,20260806
+Solapur,Good,45,"O<s>3</s>, PM<s>10</s>",2/3,20260806
+Sonipat,Moderate,134,PM<s>10</s>,1/1,20260806
+Sri ganganagar,Satisfactory,78,PM<s>10</s>,1/1,20260806
+Srinagar,Satisfactory,58,PM<s>10</s>,2/2,20260806
+Surat,Satisfactory,73,PM<s>10</s>,2/2,20260806
+Talcher,Satisfactory,75,SO2,1/1,20260806
+Thane,Good,45,PM<s>10</s>,2/2,20260806
+Thiruvananthapuram,Good,47,PM<s>10</s>,2/2,20260806
+Thoothukudi,Satisfactory,67,PM<s>10</s>,1/1,20260806
+Thrissur,Good,47,PM<s>10</s>,1/1,20260806
+Tirumala,Good,42,NO2,1/1,20260806
+Tirupati,Satisfactory,70,PM<s>10</s>,1/1,20260806
+Tonk,Moderate,102,PM<s>10</s>,1/1,20260806
+Tumakuru,Satisfactory,65,PM<s>10</s>,1/1,20260806
+Tumidih,Good,32,NO2,1/1,20260806
+Udaipur,Satisfactory,99,PM<s>10</s>,1/1,20260806
+Ujjain,Satisfactory,51,PM<s>10</s>,1/2,20260806
+Ulhasnagar,Good,38,PM<s>10</s>,2/2,20260806
+Vadodara,Satisfactory,86,PM<s>10</s>,1/1,20260806
+Vapi,Good,33,PM<s>10</s>,1/1,20260806
+Varanasi,Good,40,"PM<s>10</s>, SO2",3/4,20260806
+Vatva,Moderate,117,PM<s>10</s>,1/1,20260806
+Vijayapura,Good,43,PM<s>10</s>,1/1,20260806
+Vijayawada,Satisfactory,61,PM<s>10</s>,3/4,20260806
+Virar,Good,35,PM<s>10</s>,1/1,20260806
+Visakhapatnam,Satisfactory,99,PM<s>10</s>,1/1,20260806
+Vrindavan,Good,34,PM<s>10</s>,1/1,20260806
+Yamuna nagar,Satisfactory,76,PM<s>10</s>,1/1,20260806
